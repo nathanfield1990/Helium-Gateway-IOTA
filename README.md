@@ -1,12 +1,14 @@
 # Helium-Gateway-IOTA
 Custom hotspot using RPi to connect to Helium and send ESP32 data to IOTA through Helium console 
 
-#Items Used
+Items Used
+
 RAK2287 concentrator / hat
 RPi4B
 ESP32 w/ LoRa transceiver 
 
-#Links / order
+Links / order
+
 1) Start up your RAK seperately https://docs.rakwireless.com/Product-Categories/WisLink/RAK2287/Quickstart/#prerequisites
 2) Ensure to change inside config file for V3 / TTN https://forum.rakwireless.com/t/updated-tutorial-for-setup-with-ttn-v3-tts/5014
 3) Connect on TTN 
